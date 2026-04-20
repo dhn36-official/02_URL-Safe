@@ -1,15 +1,15 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.2",
   "notes": "URL-Safe",
-  "pub_date": "2026-04-20T19:47:49Z",
+  "pub_date": "2026-04-20T20:31:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVRdnpGQzFmenNvTHlETVQ4TW1tTW5qNEdMczNxVG94NFlIVFRVaFRUcXFMSVV6WHBqZ29XcUVxL3MvTWtGT05ZcVkweFZueUJzaUJJVXB6bHR2dlNWYVpuRE5uT3YzRmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzE0NDY3CWZpbGU6VVJMX1YxLjAuNV94NjQtc2V0dXAuZXhlCWhhc2hlZAo4UEpFY1I0YTVKZzBnbk5BQUw4dVN6enBuenlOVTIzbGcwWUZoWjl3TEJFYWRJMFJ5aThJM1NVVVJCMzd6VjdYOTl1M2dLOXZMekhxYU1YaW1iYWhCZz09Cg==",
-      "url": "https://github.com/dhn36-official/02_URL-Safe/releases/download/v1.0.5/URL_V1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTNWJZeEhrQzAwU0tHR1MwNHRCL3U1SGNJU0xLYjd0SXhYQ25SUm94a1dGR0d1bFJwSXE4Rmh0bnVhYjhhVHMrV2NoWnpWSTJCY05POVNTU3luaE1jVFd2aGw3aW1KWEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzE3MDc5CWZpbGU6VVJMX1YxLjAuNV94NjQtc2V0dXAuZXhlCWhhc2hlZAp5N3Z5QTJwQUlKdHVpVXgydU93WS9PSnJaQmNTUlpzcmtGV0h1aGNmbjJjUlNsMG9BS2FVc2o5ajRHcWhtREVKQVZNYVRueklTR05XWnMyc0ViajBBdz09Cg==",
+      "url": "https://github.com/dhn36-official/02_URL-Safe/releases/download/v1.0.2/URL_V1.0.5_x64-setup.exe"
     },
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVRdnpGQzFmenNvTDV2WEczQm94YTFJajZQVkZ2YkdKYnpBa2NqZmNhUlJhdUhyMzhWZWlicHJuUDNsUSs0MnN6bVVjZHVJUjYvdkMvclQ2YlRwUHVGTXdET0lMa2V6cVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzE0NDY5CWZpbGU6VVJMX1YxLjAuNV94ODYtc2V0dXAuZXhlCWhhc2hlZApTd2VjNExQcytVNEk3eXZEdS8xZnhzaWRuNzZqaTFBSFdUM3Boc0xlZ2FDNlpQdGkxUERaOEZRbzQ2ZDN1bXE3U1A4OXl6TDhSNGZtdklyYWtSa29DZz09Cg==",
-      "url": "https://github.com/dhn36-official/02_URL-Safe/releases/download/v1.0.5/URL_V1.0.5_x86-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIG1pbmlzaWduIHNlY3JldCBrZXkKUlVTNWJZeEhrQzAwU09yVUNhd0N6bUp4blVPMjM0VDdValRsb1FkcE5xL3M4WCswWVlGNmZiaVlhelh3NjR5T0RoR2dXeUpzaDFaNjhUQzhZeGt5RE1rWHRUUjZBQ0wxRHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NzE3MDgyCWZpbGU6VVJMX1YxLjAuNV94ODYtc2V0dXAuZXhlCWhhc2hlZAowSEVOazBnZVF1OU85QitEZHlDV29pWGRTMGRBOGJHc3ZnaXU3S012cFgvZlh1YzhVYVlpdEE1cUxOMC8rM0I4czYzK0ZFaDhxZXJOVFRRUnNVbjhCZz09Cg==",
+      "url": "https://github.com/dhn36-official/02_URL-Safe/releases/download/v1.0.2/URL_V1.0.5_x86-setup.exe"
     }
   }
 }
