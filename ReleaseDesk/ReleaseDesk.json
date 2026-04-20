@@ -1,0 +1,15 @@
+{
+  "version": "1.0.4",
+  "notes": "02_URL",
+  "pub_date": "2026-04-20T10:04:12Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeGZaNXgwUkdmaXJVTnduU2RNOWkwSnR1NDMrcHJGVkN6NkkwV0djK0kwcEtiaENZTVlweVFneU82VHpUU3RsVmhlSkI3bUsyVmVkaXpBbGRPbGYybG1lZG5RQUlMWmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Njc5NDUxCWZpbGU6VVJMX3g2NC1zZXR1cC5leGUKUTB0eXBEbXYyNCttSVcybjZkb0dkRXdUcTRzbVZpN3dNY0swK3VGUGs4cmFLZ3pOaExFbk10Ulp2YUNWOXJnbHhuRnA4WFEyM29URnBvakdvS21oRHc9PQo=",
+      "url": "https://github.com/dhn36-official/02_URL-Safe/releases/download/v1.0.4/URL_x64-setup.exe"
+    },
+    "windows-i686": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeGZaNXgwUkdmaWxRV2JacmtGZXZ6Qndhcnc0YzhLU25hSi9FaGVseXFCcCtDTG1oZThEVGU0eHBsT0RFdlNwMGVXTDFPR1dNQXN5MWV4czVJOE9iNjZPeXI2SzRCRkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Njc5NDUyCWZpbGU6VVJMX3g4Ni1zZXR1cC5leGUKc2h1QW16dkJha2lYUGpYenFmcnA0MXhsbTc2eVpWZlRmV29yRWp0a05EU0h3cVF6OUVtMHZFZE1ncUw1T2RINittVHhQdW15T0N1NVJmNFZsQ0hzQ0E9PQo=",
+      "url": "https://github.com/dhn36-official/02_URL-Safe/releases/download/v1.0.4/URL_x86-setup.exe"
+    }
+  }
+}
